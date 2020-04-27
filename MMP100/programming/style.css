@@ -1,0 +1,11 @@
+body{background: #aaaaaa;}
+h1{color: #666; 
+    font-family: "Comic Sans MS", cursive, sans-serif;}
+p{font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: large; }
+a{font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: large;
+    color: darkblue;}
+span{font-family: "Comic Sans MS", cursive, sans-serif;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;}
